@@ -19,8 +19,7 @@ import java.util.Arrays;
 import java.util.List;
 
 
-class
-DrawdigiMask1 extends View {
+class DrawdigiMask1 extends View {
 
     private int panelWidth;
     private int panelHeght;
